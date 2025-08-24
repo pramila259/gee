@@ -33,7 +33,7 @@
     }
   ],
   "env": {
-    "DATABASE_URL": "BLOB_READ_WRITE_TOKEN="vercel_blob_rw_CssiKKJe84aCHGwh_X8yZfTltG77A5qr4cUd1T0BizunCqd"",
+    "DATABASE_URL": "postgres://postgres.xgfjtqhqvsfmaieamusd:8iJxAQkkQ0FfG0Ac@aws-1-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x"",
     "SESSION_SECRET": "dagar@1234"
   }
 }
