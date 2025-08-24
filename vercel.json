@@ -33,7 +33,7 @@
     }
   ],
   "env": {
-    "DATABASE_URL": "postgresql://neondb_owner:npg_0emZHsKUwy8V@ep-steep-sound-a1yka1vd-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require",
+    "DATABASE_URL": "BLOB_READ_WRITE_TOKEN="vercel_blob_rw_CssiKKJe84aCHGwh_X8yZfTltG77A5qr4cUd1T0BizunCqd"",
     "SESSION_SECRET": "dagar@1234"
   }
 }
